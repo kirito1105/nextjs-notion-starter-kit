@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '225d9cc3babb8066a8adeb10a5c30aa8',
+  rootNotionPageId: '225d9cc3babb8099ac4dea3eb8a8ef5a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '档案馆',
-  domain: 'https://bead-bill-8d21.notion.site/225d9cc3babb8066a8adeb10a5c30aa8?v=225d9cc3babb80a1aaa2000c647adea1',
+  domain: 'https://bead-bill-8d21.notion.site/225d9cc3babb8099ac4dea3eb8a8ef5a?pvs=74',
   author: 'XKX',
 
   // open graph metadata (optional)
