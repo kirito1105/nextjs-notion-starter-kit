@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: '档案馆',
   domain: 'https://bead-bill-8d21.notion.site/225d9cc3babb8066a8adeb10a5c30aa8?v=225d9cc3babb80a1aaa2000c647adea1',
-  author: 'Travis Fischer',
+  author: 'XKX',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '最终物语跑团档案馆',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: 'transitive_bs',
+  //github: 'transitive-bullshit',
+  //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
